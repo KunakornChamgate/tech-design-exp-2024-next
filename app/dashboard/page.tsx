@@ -5,7 +5,7 @@ export default function Dashboard() {
    <img src="/arrow-left.svg"  />
    <h1  className="justify-self-center">Detail </h1>
    <img src="/Heart.svg" />
-   
+   {/* test */}
 </section>
 <div className="text-lg flex 
    flex-col items-center mt-6">
